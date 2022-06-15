@@ -1,3 +1,12 @@
+Applied patches:
+Alt Tag Decorations
+colorbar
+fullgaps
+notitle
+rainbowtags
+status2d
+underline tags
+
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
